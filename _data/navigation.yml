@@ -17,9 +17,6 @@ main:
     
   - title: "CV"
     url: /cv/
-
-    - title: "GWASTools"
-    url: /gwastools/
     
   - title: "Guide"
     url: /markdown/
