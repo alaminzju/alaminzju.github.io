@@ -6,5 +6,5 @@ excerpt: 'Allelopathy is a central process in crop–weed interactions and is me
 date: 2019-08-07
 venue: 'International Journal of Molecular Sciences'
 paperurl: 'https://doi.org/10.3390/ijms20163846'
-citation: 'Alamin M, Sultana MH, Xu H and Mollah MNH (2020) Robustification of Linear Regression and Its Application in Genome-Wide Association Studies. Front. Genet. 11:549. doi: 10.3389/fgene.2020.00549'
+citation: 'Sultana, Most. H., Fangjie Liu, Md. Alamin, Lingfeng Mao, Lei Jia, Hongyu Chen, Dongya Wu, Yingying Wang, Fei Fu, Sanling Wu, Weidi Wang, Chuyu Ye, Qian-Hao Zhu, Jie Qiu, and Longjiang Fan. 2019. "Gene Modules Co-regulated with Biosynthetic Gene Clusters for Allelopathy between Rice and Barnyardgrass" International Journal of Molecular Sciences 20, no. 16: 3846. https://doi.org/10.3390/ijms20163846'
 ---

@@ -1,0 +1,10 @@
+---
+title: "Robust linear regression based simple interval mapping for QTL analysis with backcross population"
+collection: publications
+permalink:  https://doi.org/10.3329/jbs.v24i0.37489
+excerpt: 'Simple interval mapping (SIM) is one of the most important techniques for the identification of quantitative trait locus (QTL). Most of the approaches of SIM are very sensitive to phenotypic outliers and produce misleading results. There is a robust approach of SIM only for F2  population. However, there is no robust SIM method for Backcross population. The objective was to develop a new approach of SIM with Backcross population which is robust against phenotypic outliers and performs almost the same as existing classical methods in absence of outliers. Maximum likelihood (ML) and linear regression (LR) based approaches of SIM are not robust against phenotypic outliers. In this research, we have developed a robust regression based SIM approach by maximizing β-likelihood function for Backcross population. The proposed method reduces to the LR-based SIM method when β = 0. To measure the performance of the proposed method in comparison of ML and LR based SIM with backcross population; we have generated phenotypic and genotypic data for Backcross population using simulation technique. LOD score profile plot shows that the highest peaks of LOD scores occur in the true QTL positions of the true chromosomes at true markers by all three methods for the uncontaminated dataset. However, in presence of outliers, only the proposed method gives the highest LOD score peaks at the true QTL positions on the true chromosomes. The simulation results showed that the proposed method improves performance over the existing SIM methods in presence of phenotypic contaminations.'
+date: 2018-07-18
+venue: 'Journal of Bio-Science'
+paperurl: ' https://doi.org/10.3329/jbs.v24i0.37489'
+citation: 'Alam, M., Alamin, M., Hossain, M., Islam, S., & Mollah, M. (2018). Robust linear regression based simple interval mapping for QTL analysis with backcross population. Journal of Bio-Science, 24, 75–81. https://doi.org/10.3329/jbs.v24i0.37489'
+---

@@ -1,0 +1,10 @@
+---
+title: "LTBSG1, a New Allele of BRD2, Regulates Panicle and Grain Development in Rice by Brassinosteroid Biosynthetic Pathway"
+collection: publications
+permalink: https://doi.org/10.3390/genes9060292
+excerpt: 'Panicle architecture and grain size are two important agronomic traits which determine grain yield directly in rice. In the present study, a mutant named ltbsg1 (longer top branch and shorter grain 1) was isolated from the cultivar “Zhenong 34” (Oryza sativa L. ssp. indica) by ethyl methane sulfonate (EMS) mutagenesis. The target gene was studied through phenotype observation, genetic analysis, map-based cloning and functional analysis. The histocytological analysis indicated that the elongated top branch and shorter grain of mutant ltbsg1 were caused from the defects of cell elongation. The ltbsg1 gene in mutant revealed a single nucleotide substitution (G-A) in the exon 2 of LOC_Os10g25780, causing an amino acid variation (Glycine-Arginine) in the FAD (Flavin-adenine dinucleotide)-binding domain of delta (24)-sterol reductase, which was involved in the brassinosteroid (BR) biosynthesis. LTBSG1 was constitutively expressed and the protein was widely localized in chloroplast, nucleus and cytomembrane. The ltbsg1 seedlings had a lower endogenous BR level and could be restored to the phenotype of wild type by exogenous BR. The LTBSG1 knock-out lines showed similar phenotype defects as mutant ltbsg1, which confirmed that LTBSG1 was responsible for top branch elongation and grain size reduction. Furthermore, LTBSG1 along with other BR-related genes were feedback-regulated due to their obvious altered expression in mutant ltbsg1. This study demonstrated that LTBSG1 could play a new role in regulating panicle and grain development by BR biosynthetic pathway.'
+date: 2018-06-1
+venue: 'Genes'
+paperurl: 'https://doi.org/10.3390/genes9060292'
+citation: 'Qin, R.; Zeng, D.; Yang, C.; Akhter, D.; Alamin, M.; Jin, X.; Shi, C. LTBSG1, a New Allele of BRD2, Regulates Panicle and Grain Development in Rice by Brassinosteroid Biosynthetic Pathway. Genes 2018, 9, 292. https://doi.org/10.3390/genes9060292'
+---
