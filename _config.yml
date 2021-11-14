@@ -247,9 +247,9 @@ defaults:
   # _GWASTools
   - scope:
       path: ""
-      type: GWASTools
+      type: gwastools
     values:
-      layout: GWASTools
+      layout: gwastools
       author_profile: true
       share: true
 
