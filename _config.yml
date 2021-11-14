@@ -247,7 +247,7 @@ defaults:
   # _gwastools
   - scope:
       path: ""
-      type: pages
+      type: gwastools
     values:
       layout: pages
       author_profile: true
