@@ -25,7 +25,7 @@ Work experience
 * Sep 2018 - Aug 2020: Postdoctoral Researcher 
   * [Zhejiang University](https://www.zju.edu.cn/english/) 
   * Research Field: Statistical Genetics and model developing in the field of Bioinformatics
-  * Supervisor: Professor Jun Zhu (https://person.zju.edu.cn/en/Jun_Zhu) and [Professor Xu Haiming](https://person.zju.edu.cn/en/hmxu) 
+  * Supervisor: [Professor Jun Zhu](https://person.zju.edu.cn/en/Jun_Zhu) and [Professor Xu Haiming](https://person.zju.edu.cn/en/hmxu) 
   
 
 * Jun 2012 - Aug 2014: Statistical Programmer
@@ -95,6 +95,6 @@ Service and leadership
 
 * March 2016 - April 2017: Secretary(https://bssa-zju.org/executive-committee-2016.php) 
   * [Bangladesh Student's and Scholar's Association, Zhejiang university,China](https://bssa-zju.org/) 
-  
+
 * Oct 2014 - Mar 2016: Assistant Secretary
   * [Bangladesh Student's and Scholar's Association, Zhejiang university,China](https://bssa-zju.org/) 
