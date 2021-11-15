@@ -90,10 +90,10 @@ Teaching
   
 Service and leadership
 ======
-* Feb 2019 – July 2020: President(https://bssa-zju.org/executive-committee-2019.php) 
+* Feb 2019 – July 2020: [President](https://bssa-zju.org/executive-committee-2019.php) 
   * [Bangladesh Student's and Scholar's Association, Zhejiang university,China](https://bssa-zju.org/) 
 
-* March 2016 - April 2017: Secretary(https://bssa-zju.org/executive-committee-2016.php) 
+* March 2016 - April 2017: [Secretary](https://bssa-zju.org/executive-committee-2016.php) 
   * [Bangladesh Student's and Scholar's Association, Zhejiang university,China](https://bssa-zju.org/) 
 
 * Oct 2014 - Mar 2016: Assistant Secretary
